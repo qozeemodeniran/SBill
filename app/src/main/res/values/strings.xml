@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">SBill</string>
+    <string name="hello_users_you_re_all_doing_well">Hello Users, you\'re all doing well</string>
+    <string name="hello_users">Hello users</string>
 </resources>
