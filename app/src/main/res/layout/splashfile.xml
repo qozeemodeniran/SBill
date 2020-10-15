@@ -10,15 +10,15 @@
         android:layout_width="250dp"
         android:layout_height="250dp"
         android:layout_centerInParent="true"
-        android:src="@drawable/sbill"/>
+        android:src="@drawable/splash"/>
 
     <TextView
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:layout_below="@+id/logo_id"
         android:layout_centerHorizontal="true"
-        android:text="SBill"
-        android:textSize="30dp"
+        android:text="@string/sbill"
+        android:textSize="30sp"
         android:textColor="@color/blue"/>
 
 </RelativeLayout>
